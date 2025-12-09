@@ -14,6 +14,31 @@
     "name": "2026 General Session",
     "date_folder": "2026-2026"
   },
+  "SB2001": {
+    "session_id": "2025S2",
+    "name": "2025 Second Special Session",
+    "date_folder": "2025-2025"
+  },
+  "SB2002": {
+    "session_id": "2025S2",
+    "name": "2025 Second Special Session",
+    "date_folder": "2025-2025"
+  },
+  "HB2001": {
+    "session_id": "2025S2",
+    "name": "2025 Second Special Session",
+    "date_folder": "2025-2025"
+  },
+  "SJR201": {
+    "session_id": "2025S2",
+    "name": "2025 Second Special Session",
+    "date_folder": "2025-2025"
+  },
+  "HJR201": {
+    "session_id": "2025S2",
+    "name": "2025 Second Special Session",
+    "date_folder": "2025-2025"
+  },
   "SB1005": {
     "session_id": "2025S1",
     "name": "2025 First Special Session",
