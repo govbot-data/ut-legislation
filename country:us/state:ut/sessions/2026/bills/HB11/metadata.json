@@ -7,7 +7,15 @@
     "bill"
   ],
   "subject": [
-    "Law Enforcement and Criminal Justice"
+    "Crimes",
+    "Department of Public Safety",
+    "Energy",
+    "Fossil Fuels",
+    "Law Enforcement and Criminal Justice",
+    "Oil and Gas",
+    "Roads/Highways",
+    "Traffic Violations",
+    "Transportation"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -31,6 +39,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T21:28:17Z"
+      }
+    },
+    {
+      "description": "House/ received bill from Legislative Research",
+      "date": "2026-01-14T20:36:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:54:34Z"
+      }
+    },
+    {
+      "description": "House/ received fiscal note from Fiscal Analyst",
+      "date": "2026-01-14T21:18:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:54:34Z"
       }
     }
   ],
@@ -62,7 +94,23 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0011.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0011.fn.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Utah Code",
@@ -87,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T21:28:17Z"
+    "logs_latest_update": "2026-01-15T12:54:34Z"
   }
 }

@@ -7,7 +7,12 @@
     "bill"
   ],
   "subject": [
-    "Political Subdivisions (Local Issues)"
+    "County and Municipal Finance",
+    "Liens",
+    "Local Taxation and Fees",
+    "Municipalities",
+    "Political Subdivisions (Local Issues)",
+    "Water Utilities, Irrigation, and Sewer"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -32,6 +37,30 @@
       "_processing": {
         "log_file_created": "2025-12-03T21:28:17Z"
       }
+    },
+    {
+      "description": "House/ received bill from Legislative Research",
+      "date": "2026-01-14T20:36:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:54:34Z"
+      }
+    },
+    {
+      "description": "House/ received fiscal note from Fiscal Analyst",
+      "date": "2026-01-14T21:18:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:54:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -41,6 +70,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cutler, Paul A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harper, Wayne A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Harper, Wayne A.\"}",
       "organization_id": null
     }
   ],
@@ -62,7 +99,23 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0013.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0013.fn.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Utah Code",
@@ -111,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T21:28:17Z"
+    "logs_latest_update": "2026-01-15T12:54:34Z"
   }
 }
