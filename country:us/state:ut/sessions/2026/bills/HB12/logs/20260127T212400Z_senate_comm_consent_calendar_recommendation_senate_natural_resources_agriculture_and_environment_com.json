@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Senate Comm - Consent Calendar Recommendation [Senate Natural Resources, Agriculture, and Environment Committee]",
+    "date": "2026-01-27T21:24:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Natural Resources, Agriculture, and Environment",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 12"
+}

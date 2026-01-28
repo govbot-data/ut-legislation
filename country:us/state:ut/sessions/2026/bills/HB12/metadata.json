@@ -140,6 +140,40 @@
       "_processing": {
         "log_file_created": "2026-01-24T12:49:17Z"
       }
+    },
+    {
+      "description": "Senate Comm - Favorable Recommendation [Senate Natural Resources, Agriculture, and Environment Committee]",
+      "date": "2026-01-27T21:24:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources, Agriculture, and Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:59:23Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Consent Calendar Recommendation [Senate Natural Resources, Agriculture, and Environment Committee]",
+      "date": "2026-01-27T21:24:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Natural Resources, Agriculture, and Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:59:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -179,6 +213,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/comreport/HB0012S02.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "House Transmittal Letter 1",
       "links": [
@@ -230,6 +275,6 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-24T12:49:17Z"
+    "logs_latest_update": "2026-01-28T12:59:23Z"
   }
 }
