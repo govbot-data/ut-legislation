@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "House Comm - Substitute Recommendation [House Political Subdivisions Committee]",
+    "date": "2026-01-29T22:03:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Political Subdivisions",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 13"
+}
