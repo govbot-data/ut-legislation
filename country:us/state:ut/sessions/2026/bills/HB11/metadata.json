@@ -214,6 +214,74 @@
       "_processing": {
         "log_file_created": "2026-02-05T13:11:17Z"
       }
+    },
+    {
+      "description": "Senate/ 3rd reading",
+      "date": "2026-02-05T18:24:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:08:42Z"
+      }
+    },
+    {
+      "description": "Senate/ passed 3rd reading",
+      "date": "2026-02-05T18:29:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:08:42Z"
+      }
+    },
+    {
+      "description": "Senate/ signed by President/ returned to House",
+      "date": "2026-02-05T18:29:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:08:42Z"
+      }
+    },
+    {
+      "description": "Senate/ to House",
+      "date": "2026-02-05T18:29:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:08:42Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2026-02-05T20:10:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:08:42Z"
+      }
+    },
+    {
+      "description": "House/ signed by Speaker/ sent for enrolling",
+      "date": "2026-02-05T20:11:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:08:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -276,6 +344,17 @@
       "classification": ""
     },
     {
+      "note": "Senate Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0011-S-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note",
       "links": [
         {
@@ -315,6 +394,6 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T13:11:17Z"
+    "logs_latest_update": "2026-02-06T13:08:42Z"
   }
 }
