@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "LFA/ bill assigned to staff for fiscal analysis for HB0012",
+    "date": "2025-09-02T20:51:40+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 12"
+}

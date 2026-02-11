@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "LFA/ bill sent to agencies for fiscal input for HB0013",
+    "date": "2025-12-02T21:54:42+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 13"
+}

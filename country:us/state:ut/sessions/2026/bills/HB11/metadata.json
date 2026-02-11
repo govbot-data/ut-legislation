@@ -22,116 +22,166 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Bill Numbered but not Distributed",
-      "date": "2025-12-02T21:18:00+00:00",
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0011",
+      "date": "2025-09-02T18:50:25+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-03T21:28:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0011",
+      "date": "2025-09-02T18:50:25+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:19:22Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0011",
+      "date": "2025-09-15T18:52:12+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:19:22Z"
+      }
+    },
+    {
+      "description": "Bill Numbered but not Distributed",
+      "date": "2025-12-02T21:18:14+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Numbered Bill Publicly Distributed",
-      "date": "2025-12-02T21:18:00+00:00",
+      "date": "2025-12-02T21:18:14+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-03T21:28:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0011",
+      "date": "2026-01-08T19:28:04+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:19:22Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0011",
+      "date": "2026-01-08T19:28:06+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "House/ received bill from Legislative Research",
-      "date": "2026-01-14T20:36:00+00:00",
+      "date": "2026-01-14T20:36:34+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-15T12:54:34Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "House/ received fiscal note from Fiscal Analyst",
-      "date": "2026-01-14T21:18:00+00:00",
+      "date": "2026-01-14T21:18:35+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-15T12:54:34Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "House/ 1st reading (Introduced)",
-      "date": "2026-01-20T17:43:00+00:00",
+      "date": "2026-01-20T17:43:19+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-21T12:58:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "House/ Rules to 3rd Reading Calendar",
-      "date": "2026-01-20T18:20:00+00:00",
+      "date": "2026-01-20T18:20:03+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-21T12:58:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "House/ passed 3rd reading",
-      "date": "2026-01-20T18:28:00+00:00",
+      "date": "2026-01-20T18:28:42+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-21T12:58:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "House/ to Senate",
-      "date": "2026-01-20T19:09:00+00:00",
+      "date": "2026-01-20T19:09:31+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-21T12:58:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ received from House",
-      "date": "2026-01-21T00:14:00+00:00",
+      "date": "2026-01-21T00:14:11+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-21T12:58:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ 1st reading (Introduced)",
-      "date": "2026-01-21T18:19:00+00:00",
+      "date": "2026-01-21T18:19:42+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-22T12:58:34Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ to standing committee [Senate Revenue and Taxation Committee]",
-      "date": "2026-01-23T18:12:00+00:00",
+      "date": "2026-01-23T18:12:01+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "referral-committee"
@@ -144,12 +194,12 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2026-01-24T12:49:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate Comm - Favorable Recommendation [Senate Revenue and Taxation Committee]",
-      "date": "2026-01-28T21:51:00+00:00",
+      "date": "2026-01-28T21:51:30+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "committee-passage-favorable"
@@ -162,12 +212,12 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2026-01-29T13:06:09Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ committee report favorable [Senate Revenue and Taxation Committee]",
-      "date": "2026-01-29T18:43:00+00:00",
+      "date": "2026-01-29T18:43:57+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "committee-passage-favorable"
@@ -180,95 +230,95 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2026-01-30T13:04:05Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ placed on 2nd Reading Calendar",
-      "date": "2026-01-29T18:43:00+00:00",
+      "date": "2026-01-29T18:43:58+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-30T13:04:05Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ 2nd reading",
-      "date": "2026-02-04T21:25:00+00:00",
+      "date": "2026-02-04T21:25:37+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-05T13:11:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ passed 2nd reading",
-      "date": "2026-02-04T21:27:00+00:00",
+      "date": "2026-02-04T21:27:40+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-05T13:11:17Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ 3rd reading",
-      "date": "2026-02-05T18:24:00+00:00",
+      "date": "2026-02-05T18:24:04+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-06T13:08:42Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ passed 3rd reading",
-      "date": "2026-02-05T18:29:00+00:00",
+      "date": "2026-02-05T18:29:03+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-06T13:08:42Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ signed by President/ returned to House",
-      "date": "2026-02-05T18:29:00+00:00",
+      "date": "2026-02-05T18:29:04+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-06T13:08:42Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "Senate/ to House",
-      "date": "2026-02-05T18:29:00+00:00",
+      "date": "2026-02-05T18:29:05+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-06T13:08:42Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
       "description": "House/ received from Senate",
-      "date": "2026-02-05T20:10:00+00:00",
+      "date": "2026-02-05T20:10:59+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-06T13:08:42Z"
+        "log_file_created": "2026-02-11T13:19:22Z"
       }
     },
     {
@@ -394,6 +444,6 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T13:08:42Z"
+    "logs_latest_update": "2026-02-11T13:19:22Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "LFA/ fiscal note publicly available for HB0013S01",
+    "date": "2026-01-27T04:31:21+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 13"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House/ to Senate",
+    "date": "2026-01-20T19:09:31+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 11"
+}
