@@ -136,6 +136,16 @@
       }
     },
     {
+      "description": "House/ 2nd reading",
+      "date": "2026-01-20T18:21:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:17:39Z"
+      }
+    },
+    {
       "description": "House/ passed 3rd reading",
       "date": "2026-01-20T18:28:42+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -332,6 +342,48 @@
       "_processing": {
         "log_file_created": "2026-02-06T13:08:42Z"
       }
+    },
+    {
+      "description": "Bill Received from House for Enrolling",
+      "date": "2026-02-11T16:07:41+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:17:39Z"
+      }
+    },
+    {
+      "description": "Draft of Enrolled Bill Prepared",
+      "date": "2026-02-11T16:07:44+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:17:39Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Returned to House or Senate",
+      "date": "2026-02-11T20:13:49+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:17:39Z"
+      }
+    },
+    {
+      "description": "House/ enrolled bill to Printing",
+      "date": "2026-02-11T20:13:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:17:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -354,6 +406,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HB0011.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HB0011.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -444,6 +511,6 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T13:19:22Z"
+    "logs_latest_update": "2026-02-12T13:17:39Z"
   }
 }
