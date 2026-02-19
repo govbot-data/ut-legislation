@@ -384,6 +384,30 @@
       "_processing": {
         "log_file_created": "2026-02-12T13:17:39Z"
       }
+    },
+    {
+      "description": "House/ received enrolled bill from Printing",
+      "date": "2026-02-18T20:13:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:15:35Z"
+      }
+    },
+    {
+      "description": "House/ to Governor",
+      "date": "2026-02-18T20:13:27+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:15:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -511,6 +535,6 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T13:17:39Z"
+    "logs_latest_update": "2026-02-19T13:15:35Z"
   }
 }
