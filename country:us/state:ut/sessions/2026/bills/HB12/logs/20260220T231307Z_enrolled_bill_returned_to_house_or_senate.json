@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled Bill Returned to House or Senate",
+    "date": "2026-02-20T23:13:07+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 12"
+}

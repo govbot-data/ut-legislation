@@ -348,6 +348,28 @@
       "_processing": {
         "log_file_created": "2026-02-11T13:19:22Z"
       }
+    },
+    {
+      "description": "Enrolled Bill Returned to House or Senate",
+      "date": "2026-02-20T23:13:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:56:38Z"
+      }
+    },
+    {
+      "description": "House/ enrolled bill to Printing",
+      "date": "2026-02-20T23:13:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:56:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -370,6 +392,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HB0012.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HB0012.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -460,6 +497,6 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T13:17:39Z"
+    "logs_latest_update": "2026-02-21T12:56:38Z"
   }
 }
