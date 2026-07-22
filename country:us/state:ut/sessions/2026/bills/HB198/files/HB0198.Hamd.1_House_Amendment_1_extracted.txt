@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - House Amendment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+H.B. 198
+Educator Salary Adjustment
+House Amendments Amendment 1 January 29, 2026 11:25 AM
+Representative John Arthur proposes the following amendments:
+1. Line 31 through 37:
+31 (D) preschool teacher;
+32 (E) mentor teacher;
+33 (F) teacher specialist or teacher leader;
+34 (G) {guidance} school counselor;
+35 (H) audiologist;
+36 (I) psychologist; or
+37 (J) social worker; or
+- 1 -

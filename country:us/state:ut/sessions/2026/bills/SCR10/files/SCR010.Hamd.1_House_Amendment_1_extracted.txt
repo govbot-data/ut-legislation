@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - House Amendment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+S.C.R. 10
+Concurrent Resolution Emphasizing Utah's Commitment to Advanced Air Mobility
+House Amendments Amendment 1 February 26, 2026 05:13 PM
+Representative Kay J. Christofferson proposes the following amendments:
+1. Line 12 through 18:
+12 and implementation of AAM technologies;
+13 →outlines Utah's long-term goal to establish an operational AAM system and vertiport
+14 network before the 2034 Winter Olympic Games; and
+15 →expresses the intent of the {Senate} Legislature to collaborate with federal agency
+partners, including
+16 the Federal Aviation Administration and the United States Department of Transportation.
+17 Money Appropriated in this Bill:
+18 None
+- 1 -
