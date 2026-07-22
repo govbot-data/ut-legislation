@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - House Amendment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1st Sub. H.B. 596
+Homelessness Amendments
+House Amendments Amendment 1 March 02, 2026 08:09 AM
+Representative Steve Eliason proposes the following amendments:
+1. Line 993 through 999:
+993 participating local government's tax revenue distribution amount under
+994 Subsection (2)(a)(i) for a previous fiscal year.
+995 (B) "Annual local contribution" means, for a fiscal year beginning on or after July
+996 1, 2027, the lesser of {[} $275,000 {]$500,000} or an amount equal to {[} 2.55% {]5%}
+997 of the participating local government's tax revenue distribution amount under
+998 Subsection (2)(a)(i) for the previous fiscal year.
+999 (ii) "Participating local government" means a county or municipality, as defined in
+- 1 -

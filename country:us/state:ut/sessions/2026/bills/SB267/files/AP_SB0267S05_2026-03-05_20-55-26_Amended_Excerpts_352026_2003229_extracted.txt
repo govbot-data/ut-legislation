@@ -1,0 +1,20 @@
+Title: 
+Official Title: 
+Source: versions - Amended Excerpts 3/5/2026 20:03:229
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+5th Sub. S.B. 267
+Amended Excerpts
+House Amendments March 05, 2026 08:55 PM
+1. Line 239 through 245:
+239 (C) behavioral or engagement data; and
+240 (D) biometric identifiers;
+241 (ix) practices related to protecting a student from:
+242 (A) Ĥ→ [ {targeted } ] ←Ĥ advertising or promotional content;
+243 (B) commercial exploitation of student data; and
+244 (C) algorithmic systems that may prioritize engagement over learning outcomes;
+245 (x) educational software design practices that may affect student engagement,
+- 1 - House Floor Amendments

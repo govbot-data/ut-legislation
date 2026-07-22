@@ -166,6 +166,7 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T21:59:27Z"
+    "logs_latest_update": "2026-07-21T21:59:27Z",
+    "text_extraction_latest_update": "2026-07-22T00:03:16.098404Z"
   }
 }
