@@ -1,0 +1,18 @@
+Title: 
+Official Title: 
+Source: versions - House Amendment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1st Sub. H.B. 107
+Vehicle Sales Tax Amendments
+House Amendments Amendment 1 January 23, 2026 04:21 PM
+Representative Jordan D. Teuscher proposes the following amendments:
+1. Line 427:
+427 the Judicial Council in accordance with Section 76-3-301.5.
+428 (c) A penalty is not due for a vehicle that was exempt from registration during the time
+429 period since the registration was due.
+(d) The commission shall deposit the late registration penalty into the General Fund.
+- 1 -

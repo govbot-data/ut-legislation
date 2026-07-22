@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - House Amendment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2nd Sub. S.B. 176
+Landscaping Procurement Amendments
+House Amendments Amendment 1 March 02, 2026 01:22 PM
+Representative Thomas W. Peterson proposes the following amendments:
+1. Line 34 through 40:
+34 (f) "State government grounds" means the real property, whether fenced or unfenced, on
+35 which a state government facility is located.
+36 (2) Subject to Subsection (3), when a procurement unit procures new landscape
+37 maintenance equipment to replace end-of-life, two-stroke gasoline-powered landscape maintenance
+38 equipment to be used primarily on state government grounds, the procurement unit shall
+39 procure landscape maintenance equipment that is electric-powered if the state
+40 government grounds:
+- 1 -
