@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - House Amendment 2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+H.B. 16
+Solar Power Plant Amendments
+House Amendments Amendment 2 January 30, 2026 11:34 AM
+Representative Colin W. Jack proposes the following amendments:
+1. Line 3 through 9:
+3 LONG TITLE
+4 {Committee Note:}
+5 { The Public Utilities, Energy, and Technology Interim Committee recommended this
+bill.}
+6 { Legislative Vote: 9 voting for 5 voting against 4 absent}
+7 General Description:
+8 This bill enacts provisions related to utility scale solar power plants.
+9 Highlighted Provisions:
+- 1 -
